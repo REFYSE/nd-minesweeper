@@ -1,4 +1,4 @@
-#ND-Minesweeper
+# ND-Minesweeper
 
 ND-Minesweeper is played on a n-dimensional grid of n-dimensional hypercubes, where n is a pos-
 itive integer and the grid is of arbitrarily defined size. We will refer to each hypercube in the game
